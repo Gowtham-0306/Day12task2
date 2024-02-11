@@ -1,0 +1,76 @@
+
+@media only screen and (max-width: 600px) {
+.mainbox {
+   
+   max-width: 600px;
+ 
+
+margin-left: 15%;
+   margin-right: 30%;
+   overflow: visible;
+}
+h6, i , p {
+   margin-left: 6px;
+}
+input {
+   margin-left: 6px;
+}
+td {
+   text-align: center;
+}
+table {
+   
+   border-color: black;
+}
+th {
+   text-align: left;
+   
+}
+button{
+    margin-top: 10px;
+   margin-left: 6px; 
+}
+#heads{
+
+   text-align: left;
+}
+}
+
+.mainbox {
+ 
+
+margin-left: 15%;
+   margin-right: 29.6%;
+   overflow: visible;
+}
+h6, i , p {
+   margin-left: 6px;
+}
+input {
+   margin-left: 6px;
+}
+td {
+   text-align: center;
+}
+table {
+   
+   border-color: black;
+}
+th {
+   text-align: left;
+   
+}
+button{
+    margin-top: 10px;
+   margin-left: 6px; 
+}
+#heads{
+
+   text-align: left;
+}
+#firstName{
+
+background-color: blue;
+}
+
+
